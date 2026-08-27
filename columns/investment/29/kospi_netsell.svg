@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="424" viewBox="0 0 800 424" role="img" aria-label="2025년 6월부터 2026년 6월까지 코스피 지수는 2692에서 8476으로 올랐고, 같은 기간 연기금은 11조2782억 원을 순매도했다. 순매도는 지수가 급등한 2026년 1~2월 2조5728억, 4~5월 3조579억, 지수가 제자리였던 6월 2조3371억으로 상승기에 집중됐다.">
+<rect width="800" height="424" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<line x1="450.77" y1="46" x2="450.77" y2="386" stroke="#ededed" stroke-width="1"/>
+<line x1="561.85" y1="46" x2="561.85" y2="386" stroke="#ededed" stroke-width="1"/>
+<line x1="617.38" y1="46" x2="617.38" y2="386" stroke="#ededed" stroke-width="1"/>
+<line x1="728.46" y1="46" x2="728.46" y2="386" stroke="#ededed" stroke-width="1"/>
+<text x="58" y="26" font-size="13" font-weight="bold" fill="#1a1a1a">코스피 지수</text>
+<line x1="62" y1="206" x2="784" y2="206" stroke="#d8d8d8" stroke-width="1"/>
+<text x="54" y="210" font-size="11" fill="#a0a0a0" text-anchor="end">2,000</text>
+<line x1="62" y1="160.29" x2="784" y2="160.29" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="164.29" font-size="11" fill="#a0a0a0" text-anchor="end">4,000</text>
+<line x1="62" y1="114.57" x2="784" y2="114.57" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="118.57" font-size="11" fill="#a0a0a0" text-anchor="end">6,000</text>
+<line x1="62" y1="68.86" x2="784" y2="68.86" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="72.86" font-size="11" fill="#a0a0a0" text-anchor="end">8,000</text>
+<line x1="62" y1="190.18" x2="450.77" y2="155.17" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<line x1="450.77" y1="155.17" x2="561.85" y2="109.45" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<line x1="561.85" y1="110.8" x2="617.38" y2="136.24" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<line x1="617.38" y1="129.89" x2="728.46" y2="57.98" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<line x1="728.46" y1="57.98" x2="784" y2="57.98" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="62" cy="190.18" r="3.5" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<text x="66" y="179.18" font-size="12" fill="#1a1a1a" text-anchor="start">2,692</text>
+<circle cx="450.77" cy="155.17" r="3.5" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<text x="450.77" y="173.17" font-size="12" fill="#1a1a1a" text-anchor="middle">4,224</text>
+<circle cx="561.85" cy="109.45" r="3.5" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<text x="561.85" y="98.45" font-size="12" fill="#1a1a1a" text-anchor="middle">6,224</text>
+<circle cx="617.38" cy="136.24" r="3.5" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<text x="617.38" y="154.24" font-size="12" fill="#1a1a1a" text-anchor="middle">5,052</text>
+<circle cx="728.46" cy="57.98" r="3.5" fill="#2a78d6" stroke="#ffffff" stroke-width="2"/>
+<text x="756.46" y="46.98" font-size="12" fill="#1a1a1a" text-anchor="middle">8,476</text>
+<text x="58" y="248" font-size="13" font-weight="bold" fill="#1a1a1a">연기금 코스피 순매도</text>
+<text x="784" y="248" font-size="11" fill="#a0a0a0" text-anchor="end">13개월 합계 11.28조 원</text>
+<line x1="62" y1="386" x2="784" y2="386" stroke="#d8d8d8" stroke-width="1"/>
+<text x="54" y="390" font-size="11" fill="#a0a0a0" text-anchor="end">0</text>
+<line x1="62" y1="352.29" x2="784" y2="352.29" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="356.29" font-size="11" fill="#a0a0a0" text-anchor="end">1조</text>
+<line x1="62" y1="318.57" x2="784" y2="318.57" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="322.57" font-size="11" fill="#a0a0a0" text-anchor="end">2조</text>
+<line x1="62" y1="284.86" x2="784" y2="284.86" stroke="#e4e4e4" stroke-width="1"/>
+<text x="54" y="288.86" font-size="11" fill="#a0a0a0" text-anchor="end">3조</text>
+<path d="M235.38 386 V304.18 a4 4 0 0 1 4 -4 h34 a4 4 0 0 1 4 4 V386 Z" fill="#eb6834"/>
+<text x="256.38" y="292.18" font-size="12" fill="#1a1a1a" text-anchor="middle">2.55조</text>
+<text x="256.38" y="408" font-size="12" fill="#505050" text-anchor="middle">25.6~12</text>
+<path d="M485.31 386 V303.26 a4 4 0 0 1 4 -4 h34 a4 4 0 0 1 4 4 V386 Z" fill="#eb6834"/>
+<text x="506.31" y="291.26" font-size="12" fill="#1a1a1a" text-anchor="middle">2.57조</text>
+<text x="506.31" y="408" font-size="12" fill="#505050" text-anchor="middle">26.1~2</text>
+<path d="M568.62 386 V364.22 a4 4 0 0 1 4 -4 h34 a4 4 0 0 1 4 4 V386 Z" fill="#eb6834"/>
+<text x="589.62" y="352.22" font-size="12" fill="#1a1a1a" text-anchor="middle">0.76조</text>
+<text x="589.62" y="408" font-size="12" fill="#505050" text-anchor="middle">26.3</text>
+<path d="M651.92 386 V286.91 a4 4 0 0 1 4 -4 h34 a4 4 0 0 1 4 4 V386 Z" fill="#eb6834"/>
+<text x="672.92" y="274.91" font-size="12" fill="#1a1a1a" text-anchor="middle">3.06조</text>
+<text x="672.92" y="408" font-size="12" fill="#505050" text-anchor="middle">26.4~5</text>
+<path d="M735.23 386 V311.21 a4 4 0 0 1 4 -4 h34 a4 4 0 0 1 4 4 V386 Z" fill="#eb6834"/>
+<text x="756.23" y="299.21" font-size="12" fill="#1a1a1a" text-anchor="middle">2.34조</text>
+<text x="756.23" y="408" font-size="12" fill="#505050" text-anchor="middle">26.6</text>
+</g>
+</svg>

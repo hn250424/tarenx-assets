@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="344" viewBox="0 0 800 344" role="img" aria-label="흥국에프엔비 제품 매출 추이: 내수는 23년 88,854에서 25년 88,934으로 정체, 수출은 2,091에서 3,158로 증가, 합계는 90,945에서 92,092.">
+<rect width="800" height="344" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="64" y="26" font-size="13" font-weight="bold" fill="#1a1a1a">제품 매출액 (단위: 백만 원)</text>
+<text x="482" y="26" font-size="12" fill="#505050">수출</text>
+<rect x="466" y="17" width="10" height="10" rx="2" fill="#eb6834"/>
+<text x="422" y="26" font-size="12" fill="#505050">내수</text>
+<rect x="406" y="17" width="10" height="10" rx="2" fill="#2a78d6"/>
+<line x1="66" y1="306" x2="512" y2="306" stroke="#d8d8d8" stroke-width="1"/>
+<text x="58" y="310" font-size="11" fill="#a0a0a0" text-anchor="end">0</text>
+<line x1="66" y1="245" x2="512" y2="245" stroke="#e4e4e4" stroke-width="1"/>
+<text x="58" y="249" font-size="11" fill="#a0a0a0" text-anchor="end">25k</text>
+<line x1="66" y1="184" x2="512" y2="184" stroke="#e4e4e4" stroke-width="1"/>
+<text x="58" y="188" font-size="11" fill="#a0a0a0" text-anchor="end">50k</text>
+<line x1="66" y1="123" x2="512" y2="123" stroke="#e4e4e4" stroke-width="1"/>
+<text x="58" y="127" font-size="11" fill="#a0a0a0" text-anchor="end">75k</text>
+<line x1="66" y1="62" x2="512" y2="62" stroke="#e4e4e4" stroke-width="1"/>
+<text x="58" y="66" font-size="11" fill="#a0a0a0" text-anchor="end">100k</text>
+<rect x="95.33" y="89.2" width="90" height="216.8" fill="#2a78d6"/>
+<path d="M95.33 87.2 V84.1 a2 2 0 0 1 2 -2 h86 a2 2 0 0 1 2 2 V87.2 Z" fill="#eb6834"/>
+<text x="140.33" y="109.2" font-size="12" fill="#ffffff" text-anchor="middle">88,854</text>
+<text x="140.33" y="72.1" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">90,945</text>
+<text x="87.33" y="72.1" font-size="11" fill="#a0a0a0" text-anchor="end">합계</text>
+<text x="140.33" y="326" font-size="12" fill="#505050" text-anchor="middle">23년</text>
+<rect x="244" y="83.5" width="90" height="222.5" fill="#2a78d6"/>
+<path d="M244 81.5 V77.74 a2 2 0 0 1 2 -2 h86 a2 2 0 0 1 2 2 V81.5 Z" fill="#eb6834"/>
+<text x="289" y="103.5" font-size="12" fill="#ffffff" text-anchor="middle">91,189</text>
+<text x="289" y="65.74" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">93,549</text>
+<text x="289" y="326" font-size="12" fill="#505050" text-anchor="middle">24년</text>
+<rect x="392.67" y="89" width="90" height="217" fill="#2a78d6"/>
+<path d="M392.67 87 V81.29 a2 2 0 0 1 2 -2 h86 a2 2 0 0 1 2 2 V87 Z" fill="#eb6834"/>
+<text x="437.67" y="109" font-size="12" fill="#ffffff" text-anchor="middle">88,934</text>
+<text x="437.67" y="69.29" font-size="12" font-weight="bold" fill="#1a1a1a" text-anchor="middle">92,092</text>
+<text x="437.67" y="326" font-size="12" fill="#505050" text-anchor="middle">25년</text>
+<text x="620" y="26" font-size="13" font-weight="bold" fill="#1a1a1a">수출만 확대</text>
+<line x1="622" y1="306" x2="772" y2="306" stroke="#d8d8d8" stroke-width="1"/>
+<text x="614" y="310" font-size="11" fill="#a0a0a0" text-anchor="end">0</text>
+<line x1="622" y1="236.29" x2="772" y2="236.29" stroke="#e4e4e4" stroke-width="1"/>
+<text x="614" y="240.29" font-size="11" fill="#a0a0a0" text-anchor="end">1k</text>
+<line x1="622" y1="166.57" x2="772" y2="166.57" stroke="#e4e4e4" stroke-width="1"/>
+<text x="614" y="170.57" font-size="11" fill="#a0a0a0" text-anchor="end">2k</text>
+<line x1="622" y1="96.86" x2="772" y2="96.86" stroke="#e4e4e4" stroke-width="1"/>
+<text x="614" y="100.86" font-size="11" fill="#a0a0a0" text-anchor="end">3k</text>
+<path d="M632 306 V164.23 a4 4 0 0 1 4 -4 h22 a4 4 0 0 1 4 4 V306 Z" fill="#eb6834"/>
+<text x="647" y="152.23" font-size="11" fill="#1a1a1a" text-anchor="middle">2,091</text>
+<text x="647" y="326" font-size="12" fill="#505050" text-anchor="middle">23년</text>
+<path d="M682 306 V145.47 a4 4 0 0 1 4 -4 h22 a4 4 0 0 1 4 4 V306 Z" fill="#eb6834"/>
+<text x="697" y="133.47" font-size="11" fill="#1a1a1a" text-anchor="middle">2,360</text>
+<text x="697" y="326" font-size="12" fill="#505050" text-anchor="middle">24년</text>
+<path d="M732 306 V89.84 a4 4 0 0 1 4 -4 h22 a4 4 0 0 1 4 4 V306 Z" fill="#eb6834"/>
+<text x="747" y="77.84" font-size="11" fill="#1a1a1a" text-anchor="middle">3,158</text>
+<text x="747" y="326" font-size="12" fill="#505050" text-anchor="middle">25년</text>
+</g>
+</svg>
